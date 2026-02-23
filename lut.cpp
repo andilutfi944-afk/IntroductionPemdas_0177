@@ -15,5 +15,4 @@ int main(){ // program utama
     cout << 99 << endl;
     cout << age << endl; 
     cout << age1 << endl;
-  
 } 
