@@ -6,7 +6,7 @@ int main() {
     //Langkah 2
     cout << "masukan panjang";
     cin >> p;
-
+    //langkah 3
     cout << "masukan lebar";
     cin >> l;
 
