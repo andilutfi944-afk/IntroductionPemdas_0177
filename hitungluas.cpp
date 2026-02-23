@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int p, l, luas;
-
+    //Langkah 2
     cout << "masukan panjang";
     cin >> p;
 
@@ -13,4 +13,5 @@ int main() {
     luas = p*l;
 
     cout << "hasilnys" << luas;
+
 }
