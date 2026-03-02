@@ -9,7 +9,7 @@ void input(){
     cout << "masukkan jari-jari = ";
     cin >> r;
 }
-
+//implemetasi fungsi dan prosedur
 float LuasLingkaran(float a){
         return 3.14159 *a*a;
 }
